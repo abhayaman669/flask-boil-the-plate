@@ -8,7 +8,10 @@ Collection of plates (code structure) you can boil (use to create your flask app
 
 # Understanding Project Format
 
-> TODO: Add details here
+- This project is basically collection of different structuring format that can be used to create a flask app.
+- The main branch is only for the project introduction.
+- All the different flask app structure are going to be kept in their separate dedicated branch.
+- Each branch should only be created from the main branch.
 
 # Contributors
 
